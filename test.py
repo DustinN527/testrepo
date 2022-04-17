@@ -1,0 +1,2 @@
+#output test
+print("test")
